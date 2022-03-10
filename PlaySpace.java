@@ -1,7 +1,3 @@
-// Name: Abed Pablo
-// Date: June 12 2021
-// Description: Hangman Game
-
 import java.util.Scanner;
 import java.util.ArrayList;
 
