@@ -1,7 +1,3 @@
-// Name: Abed Pablo
-// Date: June 12 2021
-// Description: Hangman
-
 import java.util.Random;
 import java.util.Scanner;
 import java.io.*;
